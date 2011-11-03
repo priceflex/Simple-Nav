@@ -1,0 +1,7 @@
+This is all you put in the view. 
+
+Haml Version
+= navigation nav_elements 
+
+ERB Version
+<%= navigation nav_elements %>
